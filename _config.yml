@@ -29,7 +29,7 @@ twitter_username: jvictorcard
 github_username:  jvcss
 
 # Build settings
-theme: jekyll-theme-minima
+theme: jekyll-theme-Architect
 plugins:
   - jekyll-feed
 
