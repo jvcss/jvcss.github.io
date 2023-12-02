@@ -8,7 +8,6 @@ url: "https://jvcss.github.io"
 twitter_username: jvictorcard
 youtube_username: "@jvcss"
 github_username:  jvcss
-buymeacoffee: jvcs
 theme: minima
 plugins:
   - jekyll-feed

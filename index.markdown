@@ -13,6 +13,6 @@ Greetings and thank you for visiting JVCSSoftware!
 
 ## Encourages content production
 
-Buy full source code, books or donate as much as you want
+[Buy full source code, books or donate as much as you want](https://www.buymeacoffee.com/jvcs)
 
 Happy coding!
