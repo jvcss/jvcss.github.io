@@ -4,8 +4,6 @@ title: Privacy Policy
 permalink: /privacy/
 ---
 
-# Privacy Policy
-
 ## Introduction
 
 Welcome to JVCSSoftware ("us," "we," or "our"). This privacy policy is designed to inform you about the types of personal information we collect, how it is used, and your choices regarding your information. Please read this policy carefully.
