@@ -3,11 +3,7 @@ layout: home
 title: Welcome to JVCSSoftware
 ---
 
-Greetings and thank you for visiting JVCSSoftware! We're thrilled to have you here.
-
-## About Us
-
-At JVCSSoftware, we are passionate about software as solution. Whether you're a seasoned developer or just starting your journey in the world of technology, we strive to provide valuable resources and support to enhance your skills and understanding.
+Greetings and thank you for visiting JVCSSoftware!
 
 ## What You'll Find Here
 
@@ -15,14 +11,8 @@ At JVCSSoftware, we are passionate about software as solution. Whether you're a 
 
 - **Insightful Articles:** Stay updated with our articles that explore the latest trends, best practices, and innovations in the software development landscape.
 
-- **Interactive Learning:** Engage in hands-on learning experiences with our interactive exercises and coding challenges.
+## Encourages content production
 
-## Connect With Us
-
-Feel free to connect with us on social media platforms. We love hearing from our community and welcome your feedback, questions, and suggestions.
-
-Thank you for choosing JVCSSoftware as your resource for software development insights. We hope you find our content valuable and look forward to supporting you on your learning journey!
+Buy full source code, books or donate as much as you want
 
 Happy coding!
-
-JVCSSoftware Team
