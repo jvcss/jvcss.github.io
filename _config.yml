@@ -8,6 +8,6 @@ url: "https://jvcss.github.io"
 twitter_username: jvictorcard
 github_username:  jvcss
 
-theme: jekyll-theme-minima
+theme: minima
 plugins:
   - jekyll-feed
