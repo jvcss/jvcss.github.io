@@ -7,7 +7,7 @@ def create_new_post(title):
     posts_directory = "_posts"
 
     # Convert title to camel case and remove hyphens
-    camel_case_title = ''.join(word.capitalize() for word in title.split('-'))
+    camel_case_title = ' '.join(word.capitalize() for word in title.split('-'))
 
     # Generate the filename based on the current date and post title
     date_prefix = datetime.now().strftime("%Y-%m-%d")
