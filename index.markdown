@@ -1,6 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: Bem-vindo ao JVCSSoftware
 ---
+
+# Bem-vindo ao JVCSSoftware
+
+Este é o meu site de desenvolvimento de software. Aqui você encontrará informações sobre meus projetos, experiência e muito mais.
