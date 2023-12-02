@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "FlutterSwipingCards"
-date: 2023-12-02 14:28:45 
+title: "Flutter Swiping Cards"
+date: 2023-12-02 14:33:39 
 categories: flutter animation card swiping
 ---
 
