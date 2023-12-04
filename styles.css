@@ -671,3 +671,19 @@ table td {
 .highlight .il {
     color: #099
 }
+
+/* cookies */
+#cookie-message {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+  }
+  
+  #cookie-message a {
+    color: #fff;
+  }

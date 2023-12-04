@@ -26,9 +26,21 @@
     <link rel="stylesheet" href="/assets/main.css">
     <link type="application/atom+xml" rel="alternate" href="https://jvcss.github.io/feed.xml" title="JVCSSoftware">
     <!-- Other head elements -->
+    <!-- Add this script within the <head> section or before the closing </body> tag -->
+    <script>
+        function hideCookieMessage() {
+            document.getElementById('cookie-message').style.display = 'none';
+        }
+    </script>
 </head>
 
 <body>
+    <!-- Cookie Message Section -->
+    <div id="cookie-message">
+        We use cookies to ensure you get the best experience on our website.
+        <a href="/privacy">Learn more</a>
+        <button onclick="hideCookieMessage()">Got it!</button>
+    </div>
     <header class="site-header" role="banner">
 
         <div class="wrapper"><a class="site-title" rel="author" href="/">JVCSSoftware</a>
